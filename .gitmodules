@@ -1,12 +1,12 @@
 [submodule "cinedelta-server"]
-    path = cinedelta-server
-    url = https://github.com/EskridGames/cinedelta.git
+	path = cinedelta-server
+	url = https://github.com/EskridGames/cinedelta.git
 
 [submodule "cinedelta-web"]
-    path = cinedelta-web
-    url = https://github.com/EskridGames/cinedelta-web.git
+	path = cinedelta-web
+	url = https://github.com/EskridGames/cinedelta-web.git
 
 [submodule "cinedelta-server-windows"]
-    path = cinedelta-server-windows
-    url = https://github.com/EskridGames/cinedelta-server-windows.git
+	path = cinedelta-server-windows
+	url = https://github.com/EskridGames/cinedelta-server-windows.git
 
